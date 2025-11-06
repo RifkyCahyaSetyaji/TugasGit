@@ -10,7 +10,7 @@ public class Kampus{
         
         String Isi=Bio(nim, nama, jrs);
         
-        System.out.println(Isi);
+        System.out.println(Is);
 
     }
     
